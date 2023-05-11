@@ -1,0 +1,1 @@
+to create a new table which can be migrated       php artisan make:migration create_users_table
